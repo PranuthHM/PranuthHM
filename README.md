@@ -10,25 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PranuthHM&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Snake Game Repo View -->
 
-
-
-
-
-<div align="center">
-  <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tharunkumarsurya&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tharunkumarsurya&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tharunkumarsurya&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="tharunkumarsurya contribution graph" />
-    </picture>
-  </a>
-</p>
-</div>
-
-
-
-<!-- snake graph -->
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br />
@@ -43,6 +24,30 @@
 </div>
 
   <hr />
+
+
+<!-- snake graph -->
+
+
+
+<!--Graph -->
+
+  
+
+<div align="center">
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PranuthHM&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PranuthHM&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PranuthHM&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="PranuthHM contribution graph" />
+    </picture>
+  </a>
+</p>
+</div>
+
+
+
 
 
 
