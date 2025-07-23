@@ -1,4 +1,9 @@
-# Hi, Iam Pranuth...
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Pranuth!;&center=true&font=Righteous&size=35&speed=97&back_speed=47">
+  </a>
+</h1>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranuth-hm/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranuth.h.manjunath@gmail.com) 
 
